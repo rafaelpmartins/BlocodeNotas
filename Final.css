@@ -1,0 +1,57 @@
+.bilhete{
+height:auto;
+width:225px;
+box-shadow: 5px 5px #d9d9d9;
+float: left;
+margin:50px;
+font-size: 30px;
+text-transform: uppercase;
+word-wrap: break-word;
+min-height: 300px;
+border-radius: 10px;
+}
+#busca{
+	width: 250px;
+}
+.icone{
+	margin-left: 145px;
+	margin-top: 10px;
+	margin-right: 10px; 	
+}
+.espaco{
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+}
+.fade-out{
+	opacity: 0;
+	transition: 1s;
+}
+.glyphicon-pencil:hover {
+	color: #e6e6e6;
+}
+.glyphicon-remove:hover{
+	color: #e6e6e6;
+} 
+p{
+	border-top-style: solid;
+}
+.invisible{
+	display: none;
+}
+h3{
+	margin-left: 10px;
+}
+#cor{
+	margin-left: 10px;
+}
+footer{
+	color: white;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	position: fixed;
+}
+footer:hover{
+	color: black;
+}
